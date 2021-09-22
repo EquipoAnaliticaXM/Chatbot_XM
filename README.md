@@ -11,11 +11,9 @@ Este repositorio se crea con el objetivo de presentar la documentación de uso p
 
 Dentro de las principales funciones de Bix se destacan 3:
 
-a. Extracción información de una variable del Mercado de Energía Mayorista mediante el uso del lenguaje natural.
-
-b. Exportación de los datos consultados a archivos de Excel.
-
-c. Generación de gráficas para facilitar análisis a partir del resultado obtenido.
+* Extracción información de una variable del Mercado de Energía Mayorista mediante el uso del lenguaje natural.
+* Exportación de los datos consultados a archivos de Excel.
+* Generación de gráficas para facilitar análisis a partir del resultado obtenido.
 
 A continuación se detallan los aspectos que se deben tener en cuenta para sacar el mayor provecho de Bix, veamos:
 
