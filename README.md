@@ -37,13 +37,13 @@ Es importante resaltar que el idioma oficial de _Bix_ es Español.
 
 Además de entregar datos extraidos desde las bases de datos de XM a traves de la [API XM](https://github.com/EquipoAnaliticaXM/API_XM), _Bix_ tiene la capacidad de realizar las siguientes operaciones:
 
-* Máximo: Retorna el valor máximo para el periodo de tiempo consultado
-* Mínimo: Retorna el valor mínimo para el periodo de tiempo consultado
-* Promedio: Retorna el promedio aritmético para el periodo de tiempo consultado
-* Promedio diario: Retorna el promedio aritmético diario para el periodo de tiempo consultado
-* Máximo diario: Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
-* Mínimo diario: Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
-* Promedio Ponderado diario: Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
+* **Máximo:** Retorna el valor máximo para el periodo de tiempo consultado
+* **Mínimo:** Retorna el valor mínimo para el periodo de tiempo consultado
+* **Promedio:** Retorna el promedio aritmético para el periodo de tiempo consultado
+* **Promedio diario:** Retorna el promedio aritmético diario para el periodo de tiempo consultado
+* **Máximo diario:** Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
+* **Mínimo diario:** Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
+* **Promedio Ponderado diario:** Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
 
 <a id='section3'></a>
 # Manejo de fechas relativas
@@ -57,6 +57,8 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 
 <a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
+
+
 
 <a id='section5'></a>
 # Ejemplos de uso
