@@ -28,7 +28,7 @@ Dentro de las principales funciones en las que _Bix_ puede asistir son:
 * Exportación de los datos consultados a archivos de Excel.
 * Generación de gráficas para facilitar análisis a partir del resultado obtenido.
 
-La interacción con el chatbot pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
+Las interacciones con el chatbot pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
 
 Es importante resaltar que el idioma oficial de _Bix_ es Español.
 
