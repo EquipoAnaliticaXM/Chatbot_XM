@@ -53,7 +53,7 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 * Ayer
 * Últimos _n_ días
 * Semana pasada
-* último mes
+* Último mes
 
 <a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
