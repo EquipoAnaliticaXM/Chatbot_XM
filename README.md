@@ -60,7 +60,7 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 
 | Tópico                  | Variable                                                        | Operaciones disponibles|
 |-------------------------|-----------------------------------------------------------------|------------------------|
-| Cargo por Confiabilidad | Obligaciones de Energía Firme                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Cargo por Confiabilidad | Obligaciones de Energía Firme                                   |<ul><li>[x] Máximo</li>	<li>[x] Mínimo</li>	<li>[x] Promedio</li>	<li>[x] Promedio Ponderado</li>	<li>[x] Máximo diario</li>	<li>[x] Mínimo diario</li>	<li>[x] Promedio diario</li></ul>|
 | Cargo por Confiabilidad | Remuneración Real Individual Diaria del Cargo por Confiabilidad |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
 | Demanda                 | Demanda Comercial                                               |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
 | Demanda                 | Demanda Comercial No Regulada                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
