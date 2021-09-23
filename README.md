@@ -43,7 +43,7 @@ Además de entregar datos extraidos desde las bases de datos de XM a traves de l
 * **Promedio diario:** Retorna el promedio aritmético diario para el periodo de tiempo consultado
 * **Máximo diario:** Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
 * **Mínimo diario:** Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
-* **Promedio Ponderado diario:** Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
+* **Promedio ponderado diario:** Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
 
 <a id='section3'></a>
 # Manejo de fechas relativas
