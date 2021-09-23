@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/69567089/132707858-021aeaf4-8cf9-44e9-b4d3-0350b60418de.png">
+<img src="https://user-images.githubusercontent.com/69567089/134527610-3ae3a047-4f03-4518-bc26-2b8ce97dbec2.png">
 </p> 
 
 
@@ -12,9 +12,6 @@
 6. [Ejemplos de uso](#section5)
 
 
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/69567089/134450647-54c1e086-7069-4b6f-8cb3-8e79018fb882.png">
-</p> 
 
 <a id='section1'></a>
 # Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista
