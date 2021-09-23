@@ -40,6 +40,7 @@ Además de entregar datos extraidos desde las bases de datos de XM a traves de l
 * Máximo: Retorna el valor máximo para el periodo de tiempo consultado
 * Mínimo: Retorna el valor mínimo para el periodo de tiempo consultado
 * Promedio: Retorna el promedio aritmético para el periodo de tiempo consultado
+* Promedio diario: Retorna el promedio aritmético diario para el periodo de tiempo consultado
 * Máximo diario: Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
 * Mínimo diario: Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
 * Promedio Ponderado diario: Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
@@ -57,10 +58,11 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
 
-
-
-## Rangos de fechas máximos por consulta
-
-
 <a id='section5'></a>
 # Ejemplos de uso
+
+
+<a id='section6'></a>
+# Limitaciones de _Bix_
+
+
