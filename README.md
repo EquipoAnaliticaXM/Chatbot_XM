@@ -24,18 +24,18 @@ _Bix_ es un chatbot de tipo _basado en reglas_ por lo cual tiene la capacidad de
 
 Dentro de las principales funciones en las que _Bix_ puede asistir son:
 
-* Extracción información de una variable del Mercado de Energía Mayorista mediante el uso controlado de lenguaje natural.
+* Extracción información de una variable del Mercado de Energía Mayorista.
 * Exportación de los datos consultados a archivos de Excel.
 * Generación de gráficas para facilitar análisis a partir del resultado obtenido.
 
-Las interacciones con el chatbot pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
+Las interacciones con el chatbot pueden ser indicadas utilizando lenguaje natural controlado o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
 
-Es importante resaltar que el idioma oficial de _Bix_ es Español.
+Es importante resaltar que el idioma oficial de _Bix_ es Español (Colombia).
 
 <a id='section2'></a>
 # Operaciones aritméticas habilitadas
 
-Además de entregar datos extraidos desde las bases de datos de XM a traves de la [API XM](https://github.com/EquipoAnaliticaXM/API_XM), _Bix_ tiene la capacidad de realizar las siguientes operaciones:
+ _Bix_ tiene la capacidad de realizar las siguientes operaciones utilizando como fuente la [API XM](https://github.com/EquipoAnaliticaXM/API_XM):
 
 * **Máximo:** Retorna el valor máximo para el periodo de tiempo consultado
 * **Mínimo:** Retorna el valor mínimo para el periodo de tiempo consultado
@@ -43,12 +43,12 @@ Además de entregar datos extraidos desde las bases de datos de XM a traves de l
 * **Promedio diario:** Retorna el promedio aritmético diario para el periodo de tiempo consultado
 * **Máximo diario:** Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
 * **Mínimo diario:** Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
-* **Promedio ponderado diario:** Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
+* **Promedio ponderado diario:** Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación real del Sistema Interconectado Nacional.
 
 <a id='section3'></a>
 # Manejo de fechas relativas
 
-El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro aspecto relevante para tener en cuenta al momento de desarrollar consultas a _Bix_ es su capacidad para comprender fechas relativas, a continuación presentamos las frases que hacen referencia a periodos de tiempo que el chatbot reconoce:
+El formato de fecha a utilizar con _Bix_ debe ser preferiblemente YYYY-MM-DD. Otro aspecto relevante para tener en cuenta al momento de realizar consultas a _Bix_ es su capacidad para comprender fechas relativas, a continuación presentamos las frases que hacen referencia a periodos de tiempo que el chatbot reconoce:
 
 * Ayer
 * Últimos _n_ días
