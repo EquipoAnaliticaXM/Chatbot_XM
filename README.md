@@ -143,9 +143,16 @@ El formato de fecha a utilizar con _Bix_ debe ser preferiblemente YYYY-MM-DD. Ot
 
 En esta sección se presentan algunos videos tutoriales que ejemplifican cómo se realiza la interacción con _Bix_:
 
-
+* [Me podrías indicar la generación real](https://www.youtube.com/watch?v=XFCqB7tIa3k)
+* [Me podrías indicar el volumen útil de la semana pasada](https://www.youtube.com/watch?v=7MyAXAkP048)
+* [Me podrías indicar los aportes en energía de ayer](https://www.youtube.com/watch?v=7MyAXAkP048)
+* [Precio de bolsa promedio ponderado diario desde 2018-03-01 hasta 2018-04-20](https://www.youtube.com/watch?v=7MyAXAkP048)
+* [Demanda Comercial máximo diario desde 2021-06-01 hasta 2021-07-20](https://www.youtube.com/watch?v=7MyAXAkP048)
 
 <a id='section6'></a>
 # Limitaciones de _Bix_
 
+1. Es un chatbot especializado en el MEM, solo tiene la capacidad de responder a las variables listadas en este documento.
+2. Para evitar congestiones en el servicio, se ha establecido un número de días máximo para consultarle a _Bix_.
+3. _Bix_ tiene la última información disponible que se encuentra en la API XM, que en algunos casos para unas variables específicas puede **no** tener información del día _t-1_, _t-2_ o _t-4_. Este comportamiento es explicado por la dinámica con la cual se procesa y produce la información del Mercado de Energía Mayorista.
 
