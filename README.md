@@ -36,19 +36,12 @@ Es importante resaltar que el idioma oficial de _Bix_ es el Español.
 
 Además de entregar datos extraidos desde las bases de datos de XM a traves de la [API XM](https://github.com/EquipoAnaliticaXM/API_XM), _Bix_ tiene la capacidad de realizar las siguientes operaciones:
 
-
-Operaciones habilitadas para variables horarias:
-* Máximo
-* Mínimo
-* Promedio
-
-Operaciones habilitadas para variables horarias:
-* Máximo
-* Mínimo
-* Máximo diario
-* Mínimo diario
-* Promedio
-* Promedio Ponderado
+* Máximo: Retorna el valor máximo para el periodo de tiempo consultado
+* Mínimo: Retorna el valor mínimo para el periodo de tiempo consultado
+* Promedio: Retorna el promedio aritmético para el periodo de tiempo consultado
+* Máximo diario: Retorna el valor máximo observado para cada día dentro del periodo de tiempo consultado
+* Mínimo diario: Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
+* Promedio Ponderado diario: Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
 
 # Manejo de fechas relativas
 
