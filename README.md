@@ -18,7 +18,7 @@
 
 <a id='section1'></a>
 # Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista
-Este repositorio se crea con el objetivo de presentar la documentación de uso para la interfaz conversacional creada por el Equipo de Analítica para consultar las principales variables del Mercado de Energía Mayorista y así facilitar el análisis ejecutivo de información específica. El chatbot recibe el nombre de _Bix_ y llega a hacer complementar del abanico de soluciones que tiene disponible XM para mantener actualizados a los diferentes públicos de interés. 
+Este repositorio se crea con el objetivo de presentar la documentación de uso para la interfaz conversacional creada por el Equipo de Analítica para consultar las principales variables del Mercado de Energía Mayorista y así facilitar el análisis ejecutivo de información específica. El chatbot recibe el nombre de _Bix_ y llega a complementar del abanico de soluciones que tiene disponible XM para mantener actualizados a los diferentes públicos de interés. 
 
 _Bix_ es un chatbot de tipo _basado en reglas_ por lo cual tiene la capacidad de seguir una serie de reglas y comprender palabras claves o frases típicas para responder preguntas sobre la evolución de variables del Mercado de Energía Mayorista. También, mediante el reconocimiento del texto de la conversación, _Bix_ se encuentra en capacidad de realizar operaciones básicas que detallaremos más adelante en esta documentación.
 
