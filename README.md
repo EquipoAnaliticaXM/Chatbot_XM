@@ -5,18 +5,18 @@
 
 
 # Índice
-1. [Conceptos generales del Chatbot (Bix) para consultar variables del Mercado de Energía Mayorista](#section1)
-2. [Variables disponibles para consultarle a Bix](#section2)
-3. [Operaciones aritméticas que pueden realizarse](#section3)
-4. [Manejo de fechas relativas](#section4)
-5. [Manejo de fechas relativas](#section5)
-6. [Ejemplos de uso](#section6)
+1. [Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista](#section1)
+2. [Operaciones aritméticas habilitadas](#section2)
+4. [Manejo de fechas relativas](#section3)
+5. [Variables disponibles para consultarle a _Bix_](#section4)
+6. [Ejemplos de uso](#section5)
 
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/69567089/134450647-54c1e086-7069-4b6f-8cb3-8e79018fb882.png">
 </p> 
 
+<a id='section1'></a>
 # Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista
 Este repositorio se crea con el objetivo de presentar la documentación de uso para la interfaz conversacional creada por el Equipo de Analítica para consultar las principales variables del Mercado de Energía Mayorista y así facilitar el análisis ejecutivo de información específica. El chatbot recibe el nombre de _Bix_ y llega a hacer complementar del abanico de soluciones que tiene disponible XM para mantener actualizados a los diferentes públicos de interés. 
 
@@ -32,7 +32,8 @@ Las interacciones con el chatbot pueden ser indicadas utilizando lenguaje natura
 
 Es importante resaltar que el idioma oficial de _Bix_ es Español.
 
-# Operaciones aritméticas que pueden realizarse
+<a id='section2'></a>
+# Operaciones aritméticas habilitadas
 
 Además de entregar datos extraidos desde las bases de datos de XM a traves de la [API XM](https://github.com/EquipoAnaliticaXM/API_XM), _Bix_ tiene la capacidad de realizar las siguientes operaciones:
 
@@ -43,6 +44,7 @@ Además de entregar datos extraidos desde las bases de datos de XM a traves de l
 * Mínimo diario: Retorna el valor mínimo observado para cada día dentro del periodo de tiempo consultado
 * Promedio Ponderado diario: Aplica para el precio de bolsa nacional, el cual retorna el precio promedio ponderado por la generación de dicha variable.
 
+<a id='section3'></a>
 # Manejo de fechas relativas
 
 El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro aspecto relevante para tener en cuenta al momento de desarrollar consultas a _Bix_ es su capacidad para comprender fechas relativas, a continuación presentamos las frases que hacen referencia a periodos de tiempo que el chatbot reconoce:
@@ -52,10 +54,13 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 * Semana pasada
 * último mes
 
+<a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
 
 
 
 ## Rangos de fechas máximos por consulta
 
+
+<a id='section5'></a>
 # Ejemplos de uso
