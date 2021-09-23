@@ -78,6 +78,7 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 </ul>
 </details>
 
+<details>
 <summary>Oferta y Generación</summary>
 <ul>
 <li>Capacidad Efectiva Neta por recurso</li>
