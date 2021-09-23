@@ -58,7 +58,7 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
 
-| Tópico                  | Variable disponible                                             | Operaciones disponibles|
+| Tópico                  | Variable                                                        | Operaciones disponibles|
 |-------------------------|-----------------------------------------------------------------|------------------------|
 | Cargo por Confiabilidad | Obligaciones de Energía Firme                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
 | Cargo por Confiabilidad | Remuneración Real Individual Diaria del Cargo por Confiabilidad |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
