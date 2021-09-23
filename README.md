@@ -141,6 +141,9 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <a id='section5'></a>
 # Ejemplos de uso
 
+En esta sección se presentan algunos videos tutoriales que ejemplifican cómo se realiza la interacción con _Bix_:
+
+
 
 <a id='section6'></a>
 # Limitaciones de _Bix_
