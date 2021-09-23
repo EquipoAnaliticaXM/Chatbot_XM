@@ -21,7 +21,7 @@ _Bix_ es un chatbot de tipo _basado en reglas_ por lo cual tiene la capacidad de
 
 Dentro de las principales funciones en las que _Bix_ puede asistir son:
 
-* Extracción información de una variable del Mercado de Energía Mayorista.
+* Extracción de información de una variable del Mercado de Energía Mayorista.
 * Exportación de los datos consultados a archivos de Excel.
 * Generación de gráficas para facilitar análisis a partir del resultado obtenido.
 
