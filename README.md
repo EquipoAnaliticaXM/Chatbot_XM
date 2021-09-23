@@ -8,7 +8,7 @@
 1. [Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista](#section1)
 2. [Operaciones aritméticas habilitadas](#section2)
 4. [Manejo de fechas relativas](#section3)
-5. [Variables disponibles para consultarle a _Bix_](#section4)
+5. [Variables disponibles para consultarle a _Bix_ y filtros](#section4)
 6. [Ejemplos de uso](#section5)
 
 
@@ -56,17 +56,23 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 * Último mes
 
 <a id='section4'></a>
-# Variables disponibles para consultarle a _Bix_
+# Variables disponibles para consultarle a _Bix_ y filtros
 
 <details>
 <summary>Hidrología</summary>
 <ul>
 <li>Aporte hídricos en energía</li> 
-  <i>Opciones de consulta por:</i> 
-  <ul><li>[x] Sistema </li><li>[x] Río</li></ul>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Río</li></ul>
 <li>Capacidad Útil energía por embalse</li>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Embalse</li></ul>
 <li>Media Histórica por Rio</li>
+   <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Río</li></ul>
 <li>Volumen Útil</li>
+   <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Embalse</li></ul>
 </ul>
 </details>
 
@@ -74,8 +80,14 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <summary>Demanda</summary>
 <ul>
 <li>Demanda Comercial</li>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Agente</li></ul>
 <li>Demanda Comercial No Regulada</li>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Agente</li></ul>
 <li>Demanda Comercial Regulada</li>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Agente</li></ul>
 <li>Demanda del SIN</li>
 </ul>
 </details>
@@ -85,25 +97,27 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <ul>
 <li>Capacidad Efectiva Neta por recurso</li>
 <li>Consumo combustible por recurso</li>
-<li>Disponibilidad Real</li>
-<li>Generación Fuera de Mérito</li>
-<li>Generación Programada Redespacho</li>
+<li>Disponibilidad Real por recurso</li>
+<li>Generación Fuera de Mérito por recurso</li>
+<li>Generación Programada Redespacho por recurso</li>
 <li>Generación Real</li>
+  <b>Opciones de consulta por:</b> 
+    <ul><li>[x] Sistema </li><li>[x] Recurso</li></ul>
 </ul>
 </details>
 
 <details>
 <summary>Transacciones y Precios</summary>
 <ul>
-<li>DDV Contratada</li>
-<li>Desviaciones al programa de generación</li>
+<li>DDV Contratada por recurso</li>
+<li>Desviaciones al programa de generación por recurso</li>
 <li>MC</li>
-<li>Obligaciones de Energía Firme</li>
+<li>Obligaciones de Energía Firme por recurso</li>
 <li>Precio de Bolsa Nacional</li>
 <li>Precio de Escasez de Activación</li>
 <li>Precio de Oferta del Despacho</li>
 <li>Precio Promedio Contratos No Regulados </li>
-<li>Precio Promedio Contratos Regulados    </li>
+<li>Precio Promedio Contratos Regulados</li>
 <li>Remuneración Real Individual Diaria del Cargo por Confiabilidad</li>
 <li>Restricciones Aliviadas</li>
 </ul>
