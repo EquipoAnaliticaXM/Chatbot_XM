@@ -58,36 +58,36 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <a id='section4'></a>
 # Variables disponibles para consultarle a _Bix_
 
-| Tópico                  | Variable disponible                                             |
-|-------------------------|-----------------------------------------------------------------|
-| Cargo por Confiabilidad | Obligaciones de Energía Firme                                   |
-| Cargo por Confiabilidad | Remuneración Real Individual Diaria del Cargo por Confiabilidad |
-| Demanda                 | Demanda Comercial                                               |
-| Demanda                 | Demanda Comercial No Regulada                                   |
-| Demanda                 | Demanda Comercial Regulada                                      |
-| Demanda                 | Demanda del SIN                                                 |
-| Emisiones               | Emisiones de CO2 Eq                                             |
-| Hidrologia              | Aporte hidrícos en energia                                      |
-| Hidrologia              | Capacidad Útil energía por embalse                              |
-| Hidrologia              | Media Histórica por Rio                                         |
-| Hidrologia              | Volumen Útil                                                    |
-| Oferta y Generación     | Capacidad Efectiva Neta por recurso                             |
-| Oferta y Generación     | Consumo combustible por recurso                                 |
-| Oferta y Generación     | Disponibilidad Real                                             |
-| Oferta y Generación     | Generación Fuera de Mérito                                      |
-| Oferta y Generación     | Generación Programada Redespacho                                |
-| Oferta y Generación     | Generación Real                                                 |
-| Transacciones y Precios | DDV Contratada                                                  |
-| Transacciones y Precios | Desviaciones al programa de generación                          |
-| Transacciones y Precios | Exportaciones de energia                                        |
-| Transacciones y Precios | Importaciones de energia                                        |
-| Transacciones y Precios | MC                                                              |
-| Transacciones y Precios | Precio de Bolsa Nacional                                        |
-| Transacciones y Precios | Precio de Escasez de Activación                                 |
-| Transacciones y Precios | Precio de Oferta del Despacho                                   |
-| Transacciones y Precios | Precio Promedio Contratos No Regulados                          |
-| Transacciones y Precios | Precio Promedio Contratos Regulados                             |
-| Transacciones y Precios | Restricciones Aliviadas                                         |
+| Tópico                  | Variable disponible                                             | Operaciones disponibles|
+|-------------------------|-----------------------------------------------------------------|------------------------|
+| Cargo por Confiabilidad | Obligaciones de Energía Firme                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Cargo por Confiabilidad | Remuneración Real Individual Diaria del Cargo por Confiabilidad |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Demanda                 | Demanda Comercial                                               |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Demanda                 | Demanda Comercial No Regulada                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Demanda                 | Demanda Comercial Regulada                                      |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Demanda                 | Demanda del SIN                                                 |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Emisiones               | Emisiones de CO2 Eq                                             |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Hidrologia              | Aporte hidrícos en energia                                      |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Hidrologia              | Capacidad Útil energía por embalse                              |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Hidrologia              | Media Histórica por Rio                                         |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Hidrologia              | Volumen Útil                                                    |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Capacidad Efectiva Neta por recurso                             |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Consumo combustible por recurso                                 |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Disponibilidad Real                                             |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Generación Fuera de Mérito                                      |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Generación Programada Redespacho                                |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Oferta y Generación     | Generación Real                                                 |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | DDV Contratada                                                  |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Desviaciones al programa de generación                          |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Exportaciones de energia                                        |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Importaciones de energia                                        |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | MC                                                              |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Precio de Bolsa Nacional                                        |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Precio de Escasez de Activación                                 |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Precio de Oferta del Despacho                                   |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Precio Promedio Contratos No Regulados                          |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Precio Promedio Contratos Regulados                             |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
+| Transacciones y Precios | Restricciones Aliviadas                                         |<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
 
 
 <a id='section5'></a>
