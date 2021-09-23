@@ -1,3 +1,7 @@
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/69567089/134450647-54c1e086-7069-4b6f-8cb3-8e79018fb882.png">
+</p>
+
 # Índice
 1. [Conceptos generales del Chatbot (Bix) para consultar variables del Mercado de Energía Mayorista](#section1)
 2. [Variables disponibles para consultarle a Bix](#section2)
@@ -18,7 +22,6 @@ Dentro de las principales funciones de Bix se destacan 3:
 A continuación se detallan los aspectos que se deben tener en cuenta para sacar el mayor provecho de Bix, veamos:
 
 # Variables disponibles para consultarle a Bix
-
 
 
 # Operaciones aritméticas que pueden realizarse
