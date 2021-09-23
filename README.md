@@ -17,29 +17,51 @@
 <img src="https://user-images.githubusercontent.com/69567089/134450647-54c1e086-7069-4b6f-8cb3-8e79018fb882.png">
 </p> 
 
-# Conceptos generales del Chatbot (Bix) para consultar variables del Mercado de Energía Mayorista
-Este repositorio se crea con el objetivo de presentar la documentación de uso para la interfaz conversacional creada por el Equipo de Analítica para consultar las principales variables del Mercado de Energía Mayorista y así facilitar el análisis ejecutivo de información específica. El chatbot recibe el nombre de **Bix** y llega a hacer complementar del abanico de soluciones que tiene disponible XM para mantener actualizados a los diferentes públicos de interés. 
+# Conceptos generales del Chatbot (_Bix_) para consultar variables del Mercado de Energía Mayorista
+Este repositorio se crea con el objetivo de presentar la documentación de uso para la interfaz conversacional creada por el Equipo de Analítica para consultar las principales variables del Mercado de Energía Mayorista y así facilitar el análisis ejecutivo de información específica. El chatbot recibe el nombre de _Bix_ y llega a hacer complementar del abanico de soluciones que tiene disponible XM para mantener actualizados a los diferentes públicos de interés. 
 
-Bix es un chatbot de tipo _basado en reglas_ por lo cual tiene la capacidad de seguir una serie de reglas y comprender palabras claves o frases típicas para responder preguntas sobre la evolución de variables del Mercado de Energía Mayorista. También, mediante el reconocimiento del texto de la conversación, Bix se encuentra en capacidad de realizar operaciones básicas que detallaremos más adelante en esta documentación.
+_Bix_ es un chatbot de tipo _basado en reglas_ por lo cual tiene la capacidad de seguir una serie de reglas y comprender palabras claves o frases típicas para responder preguntas sobre la evolución de variables del Mercado de Energía Mayorista. También, mediante el reconocimiento del texto de la conversación, _Bix_ se encuentra en capacidad de realizar operaciones básicas que detallaremos más adelante en esta documentación.
 
-Dentro de las principales funciones en las que Bix puede asistir son:
+Dentro de las principales funciones en las que _Bix_ puede asistir son:
 
 * Extracción información de una variable del Mercado de Energía Mayorista mediante el uso del lenguaje natural.
 * Exportación de los datos consultados a archivos de Excel.
 * Generación de gráficas para facilitar análisis a partir del resultado obtenido.
 
-Las acciones pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
+La interacción con el chatbot pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
 
-Es importante resaltar que el idioma oficial de Bix es el Español.
+Es importante resaltar que el idioma oficial de _Bix_ es el Español.
 
 # Operaciones aritméticas que pueden realizarse
 
-Bix se encuentra en la capacidad de responder a preguntas para descargar información 
+Además de entregar datos extraidos desde las bases de datos de XM a traves de la [API XM](https://github.com/EquipoAnaliticaXM/API_XM), _Bix_ tiene la capacidad de realizar las siguientes operaciones:
 
-# Variables disponibles para consultarle a Bix
 
+Operaciones habilitadas para variables horarias:
+* Máximo
+* Mínimo
+* Promedio
+
+Operaciones habilitadas para variables horarias:
+* Máximo
+* Mínimo
+* Máximo diario
+* Mínimo diario
+* Promedio
+* Promedio Ponderado
 
 # Manejo de fechas relativas
+
+El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro aspecto relevante para tener en cuenta al momento de desarrollar consultas a _Bix_ es su capacidad para comprender fechas relativas, a continuación presentamos las frases que hacen referencia a periodos de tiempo que el chatbot reconoce:
+
+* Ayer
+* Últimos _n_ días
+* Semana pasada
+* último mes
+
+# Variables disponibles para consultarle a _Bix_
+
+
 
 ## Rangos de fechas máximos por consulta
 
