@@ -62,7 +62,7 @@ El formato de fecha preferiblemente debe ser utilizado como YYYY-MM-DD. Otro asp
 <summary>Hidrología</summary>
 <ul>
 <li>Aporte hídricos en energía</li> 
-  Opciones de consulta por 
+  <i>Opciones de consulta por:</i> 
   <ul><li>[x] Sistema </li><li>[x] Río</li></ul>
 <li>Capacidad Útil energía por embalse</li>
 <li>Media Histórica por Rio</li>
