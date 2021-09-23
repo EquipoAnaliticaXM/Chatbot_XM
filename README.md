@@ -30,7 +30,7 @@ Dentro de las principales funciones en las que _Bix_ puede asistir son:
 
 La interacción con el chatbot pueden ser indicadas utilizando lenguaje natural o señalando los comandos que van surgiendo en la pantalla a medida que se desarrolla la conversación.
 
-Es importante resaltar que el idioma oficial de _Bix_ es el Español.
+Es importante resaltar que el idioma oficial de _Bix_ es Español.
 
 # Operaciones aritméticas que pueden realizarse
 
