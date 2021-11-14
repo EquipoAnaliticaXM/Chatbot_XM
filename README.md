@@ -141,10 +141,10 @@ El formato de fecha a utilizar con _Bix_ debe ser preferiblemente YYYY-MM-DD. Ot
 En esta sección se presentan algunos videos tutoriales que ejemplifican cómo se realiza la interacción con _Bix_:
 
 * [Me podrías indicar la generación real](https://www.youtube.com/watch?v=XFCqB7tIa3k)
-* [Me podrías indicar el volumen útil de la semana pasada](https://www.youtube.com/watch?v=7MyAXAkP048)
+* [Me podrías indicar el volumen útil de la semana pasada](https://www.youtube.com/watch?v=Z4DABDwCR64)
 * [Me podrías indicar los aportes en energía de ayer](https://www.youtube.com/watch?v=7MyAXAkP048)
-* [Precio de bolsa promedio ponderado diario desde 2018-03-01 hasta 2018-04-20](https://www.youtube.com/watch?v=7MyAXAkP048)
-* [Demanda Comercial máximo diario desde 2021-06-01 hasta 2021-07-20](https://www.youtube.com/watch?v=7MyAXAkP048)
+* [Precio de bolsa promedio ponderado diario desde 2018-03-01 hasta 2018-04-20](https://www.youtube.com/watch?v=q06gIHYvqQ0)
+* [Demanda Comercial máximo diario desde 2021-06-01 hasta 2021-07-20](https://www.youtube.com/watch?v=C3fsL4AiZds)
 
 <a id='section6'></a>
 # Limitaciones de _Bix_
